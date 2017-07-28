@@ -2,9 +2,10 @@
 
 FM Notch filter for SatNOGS project.
 
-An FM notch filter is used to reject FM signals.
+An FM notch filter is used to reject FM signals 88MHz - 108MHz.
+More information about filter in report and qucs project files.
 
-Repository includes all source files for PCB's qucs simulation files and reports about the filter 
+Repository includes all source files for PCB's qucs, simulation files and reports about the filter 
 specifications.
 
 ## Repository policy
@@ -17,6 +18,6 @@ Master branch is most times under active development, so expect things to break.
 
 ## License
 
-&copy; 2014-2015 [Libre Space Foundation](http://librespacefoundation.org).
+[![Libre Space Foundation](https://img.shields.io/badge/%C2%A9%202014--2017-Libre%20Space%20Foundation-6672D8.svg)](https://librespacefoundation.org/)
 
 Licensed under the [CERN OHLv1.2](LICENSE).
